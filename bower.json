@@ -1,0 +1,21 @@
+{
+  "name": "PROJETO",
+  "homepage": "https://github.com/Iuryisalto/projeto",
+  "authors": [
+    "Iuryisalto <iury-isalto@hotmail.com>"
+  ],
+  "description": "",
+  "main": "",
+  "license": "MIT",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "bootstrap": "^3.3.7"
+  }
+}
